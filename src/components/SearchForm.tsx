@@ -23,6 +23,9 @@ const SearchForm: React.FC<{
                     fullWidth
                     value={value}
                     onChange={(e) => onChange(e.target.value)}
+                    InputProps={{
+                        autoComplete: 'off'
+                    }}
                 />
             </Grid>
             <Grid item xs={24} sm={2}>
