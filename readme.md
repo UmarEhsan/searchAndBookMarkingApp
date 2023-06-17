@@ -9,8 +9,8 @@ npm (Node Package Manager)
 Installation
 Clone this repository to your local machine.
 <b>git clone https://github.com/UmarEhsan/searchAndBookMarkingApp.git</b>
-Navigate to the project directory: cd searchAndBookmarkApp
-Install the project dependencies by running the following command:
+<p>Navigate to the project directory: cd searchAndBookMarkingApp</P>
+<p>Install the project dependencies by running the following command:</p>
 
 <h3>To set the environment </h3>
 Open your project's root directory.
